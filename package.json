@@ -1,0 +1,34 @@
+{
+  "name": "fbdl-core",
+  "version": "1.0.2",
+  "description": "Facebook video downloader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "author": "jssfernandes",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssfernandes/fbdl-core.git"
+  },
+  "keywords": [
+    "facebook",
+    "fbdl",
+    "facebook-video-download",
+    "facebook-video",
+    "ytdl"
+  ],
+  "bugs": {
+    "url": "https://github.com/jssfernandes/fbdl-core/issues"
+  },
+  "homepage": "https://github.com/jssfernandes/fbdl-core#readme"
+}
